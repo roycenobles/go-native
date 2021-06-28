@@ -14,3 +14,9 @@
     user-agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0
     internal-urls: .*onelogin.*
     icon: Icons/todo.icns
+-
+    name: OneNote
+    uri: https://www.office.com/launch/onenote
+    user-agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0
+    internal-urls: onelogin.com|sharepoint.com
+    icon: Icons/onenote.icns
