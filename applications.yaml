@@ -1,0 +1,16 @@
+-
+    name: Gmail
+    uri: https://mail.google.com/mail
+    user-agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0
+    internal-urls: .*accounts .google.com.*
+-
+    name: Outlook Web
+    uri: https://outlook.office.com/mail/inbox
+    user-agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0
+    internal-urls: .*onelogin.*
+-
+    name: TODO
+    uri: https://to-do.office.com/tasks
+    user-agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0
+    internal-urls: .*onelogin.*
+    icon: Icons/todo.icns
